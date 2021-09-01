@@ -8,5 +8,5 @@
 </ul>
 
 <p align="left">
-  Follow me on <a href="https://linkedin.com/in/saraevs" target="blank">Linked In</a> or <a href="https://instagram.com/saraevs" target="blank">Instgram</a>.
+  Follow me on <a href="https://linkedin.com/in/saraevs" target="blank">Linked In</a> or <a href="https://instagram.com/saraevs" target="blank">Instagram</a>.
 </p>
