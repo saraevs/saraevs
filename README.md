@@ -1,10 +1,10 @@
 <h1>Hi, I'm Sara 👋</h1>
 <h3>I'm a junior software engineer at Moonpig, and recent Le Wagon Bootcamp alumni. </h3>
 
-<ul> 
+<ul>
   <li>👩‍💻 I am currently learning React, TypeScript and brushing up my JS skills</li>
-  <li>👩‍🏫 I most recently taught coding at Le Wagon, focussing on</li>
-  <li>🍱 My bootcamp final project was [Dished!](https://www.dished.site/)</li>
+  <li>👩‍🏫 I most recently taught coding at Le Wagon, focusing on object-oriented programming</li>
+  <li>🍱 My bootcamp final project was <a href="https://www.dished.site/">Dished!</a></li>
 </ul>
 
 <h3>Follow me!</h3>
