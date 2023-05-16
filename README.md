@@ -1,5 +1,5 @@
 <h1>Hi, I'm Sara 👋</h1>
-<h3>I'm an associate software engineer at Moonpig. </h3>
+<h3>I'm a software engineer at Moonpig. </h3>
 
 <h3>Follow me!</h3>
 <a href="https://linkedin.com/in/saraevs" target="_blank">
