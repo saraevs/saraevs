@@ -3,7 +3,7 @@
 
 <h3>Follow me!</h3>
 
-<div style="display: flex;gap: 16px;">
+<div style="display: flex;gap: 60px;">
   <a href="https://linkedin.com/in/saraevs" target="_blank">
       <img src="https://cdn3.iconfinder.com/data/icons/social-media-2253/17/Vector-4-1024.png" alt="Linked In" width="30px"/>
   </a>
